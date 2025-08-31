@@ -10,7 +10,7 @@ It is lightweight, fast, and requires no external dependencies.
 - Easy to customize
 
 ## 🌐 Live Demo
-[View Website]([https://your-username.github.io/single-page-cv/](https://kalpana-17.github.io/MySinglePageCV/))
+[View Website](https://kalpana-17.github.io/MySinglePageCV/)
 
 ## ⚡ Deployment Instructions
 
