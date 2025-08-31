@@ -22,4 +22,4 @@ It is lightweight, fast, and requires no external dependencies.
  1. Push your project to a GitHub repository.
  2. Go to Repository Settings > Pages.
  3. Under Branch, select main (or master) and / (root).
- 4. Save, and your site will be live at:
+ 4. Save, and your site will be live on github pages.
